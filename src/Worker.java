@@ -1,4 +1,4 @@
-package worker2.src;
+package worker.src;
 public class Worker{
     private OnTaskDoneListener callback;
     private OnTaskErrorListener errorCallback;
